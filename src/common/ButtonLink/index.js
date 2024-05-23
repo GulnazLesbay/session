@@ -1,0 +1,34 @@
+import styled from 'styled-components';
+
+export const ButtonLink = styled.a`
+  padding: 12px 16px;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+  height: 40px;
+  border: 1px solid ${({ theme }) => theme.colors.buttonLink.border};
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  background-color: ${({ theme }) => theme.colors.primary};
+  transition: 0.3s;
+  font-weight: 600;
+  font-size: 20.0584px;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  color: ${({ theme }) => theme.colors.buttonLink.text};
+
+  &:hover {
+    box-shadow:
+      2px -2px 0px #8cc2ff,
+      -2px 2px 0px #8cc2ff,
+      2px 2px 0px #8cc2ff,
+      -2px -2px 0px #8cc2ff;
+  }
+
+  &:active {
+    box-shadow: inset 0px 2px 0px rgba(20, 70, 32, 0.2);
+  }
+`;
