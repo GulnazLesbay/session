@@ -1,20 +1,6 @@
 import { useState } from 'react';
 import {
-  Wrapper,
-  Image,
-  Content,
-  SubHeader,
-  Name,
-  Info,
-  Message,
-  ButtonWrapper,
-  ButtonListWrapper,
-  DownloadButton,
-  Person,
-  List,
-  ListItem,
-  PolishFlag,
-  EnglishFlag,
+  Wrapper,Image,Content,  SubHeader,Name,  Info,  Message,  ButtonWrapper,  ButtonListWrapper,  DownloadButton,  Person,  List,  ListItem,  PolishFlag,  EnglishFlag,
 } from './styled';
 import photo from '../Header/images/me.jpg';
 import { ButtonLink } from '../ButtonLink';

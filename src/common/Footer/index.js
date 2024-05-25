@@ -32,7 +32,7 @@ const Footer = () => (
       <StyledLink
         target="_blank"
         rel="noreferrer"
-        href="https://www.facebook.com/"
+        href="https://www.facebook.com/gulnaz.kozhanova.5/"
       >
         <Facebook />
       </StyledLink>
@@ -46,7 +46,7 @@ const Footer = () => (
       <StyledLink
         target="_blank"
         rel="noreferrer"
-        href="https://www.instagram.com/"
+        href="https://www.instagram.com/maksatovna_g_/"
       >
         <Instagram />
       </StyledLink>

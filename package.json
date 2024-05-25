@@ -2,7 +2,7 @@
   "name": "personal-homepage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://allmosthumann.github.io/personal-homepage/",
+  "homepage": "https://gulnazlesbay.github.io/react_session/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
     "@testing-library/jest-dom": "^5.16.5",
@@ -15,7 +15,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.5",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "redux-saga": "^1.2.2",
     "styled-components": "^5.3.6",
     "styled-normalize": "^8.0.7",
